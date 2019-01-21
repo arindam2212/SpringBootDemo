@@ -1,0 +1,8 @@
+com\gft\exam\customer\model\controller\CustomerDetailController.class
+com\gft\exam\customer\repository\CustomerDetailRepository.class
+com\gft\exam\customer\model\controller\ExceptionResolver.class
+com\gft\exam\customer\model\exception\CustomerException.class
+com\gft\exam\customer\model\ErrorResponse.class
+com\gft\exam\customer\model\CustomerDetail.class
+com\gft\exam\customer\model\service\CustomerService.class
+com\gft\exam\customer\CustomerDetailsApplication.class
