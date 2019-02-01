@@ -1,0 +1,6 @@
+com\sa\gps\tracker\RealGpsTrackerApplicationTests.class
+com\sa\gps\tracker\bdd\GpsTrackerStepExecution.class
+com\sa\gps\tracker\controller\GPSTrackerControllerTest.class
+com\sa\gps\tracker\service\GPSTrackerServiceImplTest.class
+com\sa\gps\tracker\bdd\RunCucumberTest.class
+com\sa\gps\tracker\bdd\AbstractSpringConfigurationTest.class
